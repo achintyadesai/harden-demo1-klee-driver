@@ -14,8 +14,8 @@
 #include "Protocol/LoadedImage.h"
 
 #include "ProcessorBind.h"
-#include "../edk2/EmulatorPkg/Demo1_Bob/Demo1_Bob.c"
-#include "../edk2/EmulatorPkg/Demo1_Access_Key/Demo1_Access_Key.c"
+#include "/root/source_code/harden-demo1-src-master/edk2/EmulatorPkg/Demo1_Bob/Demo1_Bob.c"
+#include "/root/source_code/harden-demo1-src-master/edk2/EmulatorPkg/Demo1_Access_Key/Demo1_Access_Key.c"
 //#include "../edk2/EmulatorPkg/Demo1_Alice/Demo1_Alice.c"
 #include <stdlib.h>
 #include <stdio.h>
