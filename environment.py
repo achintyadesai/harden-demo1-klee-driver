@@ -138,7 +138,7 @@ def process_directory(directory):
 def main():
     
     script_directory = os.path.dirname(os.path.abspath(__file__))
-    root_directory = os.path.dirname(script_directory) + 'edk2/EmulatorPkg'
+    root_directory = os.path.dirname(script_directory) + '/source_code/harden-demo1-src-master/edk2/EmulatorPkg'
     print(root_directory)
     print("Running the script...")
     # Process the root directory and all its subdirectories
